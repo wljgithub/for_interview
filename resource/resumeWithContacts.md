@@ -6,6 +6,9 @@
 
 GitHub：		https://github.com/wljgithub
 
+Email：    `332150887@qq.com`
+
+微信：     `wlj1995222`
 
   											
 **自我描述**
