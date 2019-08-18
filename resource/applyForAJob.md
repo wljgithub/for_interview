@@ -49,21 +49,17 @@
 
 这是[PDF 版](https://github.com/wljgithub/for_interview/blob/master/resource/resumeWithContacts.pdf)的(卡的话可以尝试刷新一下)，放在 github 上，有时候加载有些慢，所以我也写了份[markdown 版](https://github.com/wljgithub/for_interview/blob/master/resource/resumeWithContacts.md)的，但排版看起来可能没那么好
 
-目前在深圳，已离职，面试的话可以约个时间
+目前在深圳，已离职，面试的话可以约个时间，联系方式简历里有
 
-***联系方式***
 
-微信:  wlj1995222  
-
-邮箱： 332150887@qq.com
 
 同时，如果你有一些有关我简历上的改进或未来职业发展的建议的话，我也将十分的欢迎。
 
 
 顺便补充一下我技术上的价值取向，由于我接触编程的时间不长，就两年多一点，遇到和解决过的问题也不多，所以想法方面或许有些不成熟，还请见谅。
 
-1. 我喜欢研究底层的东西
-	，所以，所以我简历上的个人项目都是ping和traceroute，也有人怀疑它算不算得上是一个项目
+1. 喜欢研究底层的东西
+	我喜欢研究一些网络协议和并用程序实现出来，所以我简历上的个人项目都是ping和traceroute，也有人怀疑它算不算得上是一个项目，我其实没有考虑这么多，我只是觉得这是平时做的东西，然后就把它写到简历上了
 
 
 2. 更倾向于从"源头"汲取信息
