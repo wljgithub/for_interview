@@ -6,7 +6,7 @@
 
 GitHub：		https://github.com/wljgithub
 
-Email：    `332150887@qq.com`
+Email：    wulingjian123@gmail.com`
 
 微信：     `wlj1995222`
 
