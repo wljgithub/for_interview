@@ -127,8 +127,8 @@ func main() {
 }
 ```
 
-因为在把值赋给变量，再重新调用方法，编译器自动帮你加上了
+因为在把值赋给变量，再重新调用方法，编译器自动帮你加上了。
 
 编译器把a.HowOld() 改成(&a).HowOld,所以编译通过了。
 
-官方文档里有说到，[点这里](https://tour.golang.org/methods/6)
+官方文档里有说到，[点这里](https://tour.golang.org/methods/6) (需科学上网方可访问)
