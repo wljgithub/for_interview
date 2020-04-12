@@ -32,7 +32,7 @@
 
 ## 个人项目
 
-[																																							** 演示地址 **](https://xiulu.xyz/)  [**代码**](https://github.com/wljgithub/my-blog)
+[**演示地址**](https://xiulu.xyz/)  [**代码**](https://github.com/wljgithub/my-blog)
 
 描述：这是我从零开始写的一个博客，包括前后端的设计（技术选型，表的设计，API制定，UI布局），开发 （独立解决各种问题 ) ，调试（Postman，Chrome开发者工具，断点调试），部署（AWS EC2，Nginx 代理，Let'encrypt签证书）
 
