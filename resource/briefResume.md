@@ -40,6 +40,7 @@
 - 调试（Postman，Chrome开发者工具，断点调试）
 - 部署（AWS EC2，Nginx 代理，Let'encrypt签证书）
 
+
 **支持： **
 
 - 功能：支持多用户，Markdown预览，分页等。
@@ -47,6 +48,7 @@
 - 特性：实现前后端分离，响应式布局(Bootstrap实现)
 
 - 技术选型：前端用Bootstrap + Vue，后端用Gin（Golang的一个Web框架）
+
 
 **部署: **
 
