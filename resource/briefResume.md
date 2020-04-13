@@ -30,7 +30,7 @@
 
 ## 个人项目
 
-[**演示地址 **](https://xiulu.xyz/)  [**代码**](https://github.com/wljgithub/my-blog)
+[** 演示地址**](https://xiulu.xyz/)  [**代码**](https://github.com/wljgithub/my-blog)
 
 **描述：**这是我从零开始写的一个博客，包括
 
@@ -39,7 +39,7 @@
 - 调试（Postman，Chrome开发者工具，断点调试）
 - 部署（AWS EC2，Nginx 代理，Let'encrypt签证书）
 
-**支持： **
+** 支持： **
 
 - 功能：支持多用户，Markdown预览，分页等。
 
@@ -47,7 +47,7 @@
 
 - 技术选型：前端用Bootstrap + Vue，后端用Gin（Golang的一个Web框架）
 
-**部署: **
+** 部署: **
 
 写完后用Godaddy签了个域名，然后部署到 AWS的EC2上，主要干了几件事：
 
