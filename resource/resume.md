@@ -152,3 +152,7 @@ Bootstrap 和 Vue 是为了做这个博客才学的，算是现学现做把。
 
 15k~20k
 
+### 简化版简历
+
+为了尽可能地介绍自己，这份简历可能写得有些啰嗦。
+如果需要打印简历，或其他用途。我这里也写了一份[简化版](https://github.com/wljgithub/for_interview/blob/master/resource/briefResume.md) 的。
